@@ -1,6 +1,6 @@
 # Reduce Imports
 
-A Project Showing how to reduce the number of repetetive imports across .dart files. We simply create a commons.dart file and export all the repetetive imports from that file you can check the blog for further detail.
+A Project Showing how to reduce the number of repetetive imports across .dart files. We simply create a commons.dart file and export all the repetetive imports from that file you can check the [blog](https://brewyourtech.com/flutter-how-to-reduce-the-number-of-imports/) for further detail.
 
 ## Getting Started
 
